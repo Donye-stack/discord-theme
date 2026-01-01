@@ -79,6 +79,13 @@
     font-style: normal;
 }
 
+@font-face {
+	 font-family: "KHInterference-Regular";
+    src: url(https://raw.githubusercontent.com/Donye-stack/discord-theme/refs/heads/main/src/assets/KHInterference-Regular.woff2) format("woff2");
+    font-weight: normal;
+    font-style: normal;
+}
+
 @property --rounded-avatars {
     syntax: "true | false";
     initial-value: false;
