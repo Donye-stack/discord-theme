@@ -2,7 +2,7 @@
 * {
     --custom-logo: url(https://dom1torii.github.io/discord16/src/assets/steam-logo.svg) !important;
 
-    --font-primary: var(--font), sans-serif !important;
+    --font-primary: var(--font), KH Interference !important;
 
     --app-background-frame: var(--custom-bg) !important;
     --background-primary: var(--custom-bg) !important;
