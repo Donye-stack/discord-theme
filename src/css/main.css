@@ -2,7 +2,7 @@
 * {
     --custom-logo: url(https://dom1torii.github.io/discord16/src/assets/steam-logo.svg) !important;
 
-    --font-primary: url(https://raw.githubusercontent.com/Donye-stack/discord-theme/refs/heads/main/src/assets/DepartureMonoNerdFont-Regular.otf) !important;
+    --font-primary: url(https://raw.githubusercontent.com/Donye-stack/discord-theme/refs/heads/main/src/assets/DepartureMonoNerdFont-Regular.woff2) !important;
 
     --app-background-frame: var(--custom-bg) !important;
     --background-primary: var(--custom-bg) !important;
